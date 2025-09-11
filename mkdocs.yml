@@ -1,0 +1,13 @@
+site_name: My Docs
+
+theme: 
+  name: "material"
+
+nav:
+  - index.md
+  - references.md
+  - how-to-guides.md
+  - explanation.md
+
+plugins:
+  - mkdocstrings
